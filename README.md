@@ -1,0 +1,1 @@
+This is Samuel's fist git project!
